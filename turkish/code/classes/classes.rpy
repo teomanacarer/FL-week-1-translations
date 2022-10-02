@@ -4,7 +4,7 @@ translate turkish strings:
 
     # game/code/classes/classes.rpy:117
     old "sister"
-    new "kardeş"
+    new "Kız kardeş"
 
     # game/code/classes/classes.rpy:117
     old "best friend{#female}"
