@@ -4,115 +4,115 @@
 translate turkish d01s05b_8139b175:
 
     # mct "Points, points, points... {w}maybe if I just repeating that in my head I'll think of something."
-    mct "Points, points, points... {w}maybe if I just repeating that in my head I'll think of something."
+    mct "Puanlar, puanlar, puanlar... {w}belki bunu kafamda tekrar edersem bir şey düşünürüm."
 
 # game/code/d01/extended/s05b.rpy:12
 translate turkish d01s05b_e505a96a:
 
     # mct "Oh, wait, here's a girl!"
-    mct "Oh, wait, here's a girl!"
+    mct "Oh, bekle, işte bir kız!"
 
 # game/code/d01/extended/s05b.rpy:23
 translate turkish d01s05b_3bca2a98:
 
     # mc "Excuse me, I was wondering if... {w}oh, fuck. I'm sorry."
-    mc "Excuse me, I was wondering if... {w}oh, fuck. I'm sorry."
+    mc "Affedersiniz, merak ediyordum... {w}oh, kahretsin. Üzgünüm"
 
 # game/code/d01/extended/s05b.rpy:24
 translate turkish d01s05b_94b59505:
 
     # jfx "Huh? What is it?"
-    jfx "Huh? What is it?"
+    jfx "Ha? Nedir o?"
 
 # game/code/d01/extended/s05b.rpy:26
 translate turkish d01s05b_350ab24d:
 
     # mc "Nevermind. I just realized what I was about to say and..."
-    mc "Nevermind. I just realized what I was about to say and..."
+    mc "Boşver. Ne söylemek üzere olduğumu yeni anladım ve..."
 
 # game/code/d01/extended/s05b.rpy:28
 translate turkish d01s05b_e8f94ad8:
 
     # jfx "Was it about religion?"
-    jfx "Was it about religion?"
+    jfx "Din ile mi ilgiliydi?"
 
 # game/code/d01/extended/s05b.rpy:30
 translate turkish d01s05b_c09f1c66:
 
     # mc "No, I just-"
-    mc "No, I just-"
+    mc "Hayır, ben sadece-"
 
 # game/code/d01/extended/s05b.rpy:32
 translate turkish d01s05b_c8eef95b:
 
     # jfx "Are you collecting money for something?"
-    jfx "Are you collecting money for something?"
+    jfx "Bir şey için para mı topluyorsun?"
 
 # game/code/d01/extended/s05b.rpy:34
 translate turkish d01s05b_9f2ac454:
 
     # mc "No, nothing like that. I just realized it was completely inappropriate."
-    mc "No, nothing like that. I just realized it was completely inappropriate."
+    mc "Hayır, öyle bir şey değil. Sadece tamamen uygunsuz olduğunu yeni fark ettim."
 
 # game/code/d01/extended/s05b.rpy:36
 translate turkish d01s05b_05088b29:
 
     # jfx "Huh. Now I'm curious - what was it?"
-    jfx "Huh. Now I'm curious - what was it?"
+    jfx "Ha. Şimdi merak ettim - neydi?"
 
 # game/code/d01/extended/s05b.rpy:38
 translate turkish d01s05b_a40f25e6:
 
     # mc "Okay, but remember that I realized my mistake and decided not to actually say it."
-    mc "Okay, but remember that I realized my mistake and decided not to actually say it."
+    mc "Tamam, ama unutma, hatamı fark ettim ve aslında söylememeye karar verdim."
 
 # game/code/d01/extended/s05b.rpy:39
 translate turkish d01s05b_0ea4b303:
 
     # mc "I was going to ask you... {w}Well, there's this app, and I'm trying to earn points."
-    mc "I was going to ask you... {w}Well, there's this app, and I'm trying to earn points."
+    mc "Sana soracaktım... {w}Şey, bu uygulama var ve puan kazanmaya çalışıyorum."
 
 # game/code/d01/extended/s05b.rpy:41
 translate turkish d01s05b_7198b166:
 
     # jfx "So, you want me to record you dancing? or want me to do some dance?"
-    jfx "So, you want me to record you dancing? or want me to do some dance?"
+    jfx "Yani, seni dans ederken kaydetmemi mi istiyorsun? yoksa biraz dans etmemi mi istiyorsun?"
 
 # game/code/d01/extended/s05b.rpy:43
 translate turkish d01s05b_d18437fa:
 
     # mc "Not quite. {w}Have you heard of Fetish Locator?"
-    mc "Not quite. {w}Have you heard of Fetish Locator?"
+    mc "Neredeyse. {w}Fetiş Bulucu'yu duydunuz mu?"
 
 # game/code/d01/extended/s05b.rpy:46
 translate turkish d01s05b_5522dd87:
 
     # jfx "Nope."
-    jfx "Nope."
+    jfx "Hayır."
 
 # game/code/d01/extended/s05b.rpy:48
 translate turkish d01s05b_db4c21f5:
 
     # mc "It's a kind of... {w}I guess you could call it a sex app."
-    mc "It's a kind of... {w}I guess you could call it a sex app."
+    mc "Bu bir nevi... {w}Sanırım buna seks uygulaması diyebilirsin."
 
 # game/code/d01/extended/s05b.rpy:51
 translate turkish d01s05b_25dc7110:
 
     # jfx "Wait, what? You made up some fake sex app as a way to pick up random women in the park at night?"
-    jfx "Wait, what? You made up some fake sex app as a way to pick up random women in the park at night?"
+    jfx "Bekle, ne? Geceleri parkta rastgele kadınları tavlamanın bir yolu olarak sahte seks uygulaması mı yaptın?"
 
 # game/code/d01/extended/s05b.rpy:54
 translate turkish d01s05b_d02f7fd6:
 
     # mc "What? No! {w}Sorry, I mean no."
-    mc "What? No! {w}Sorry, I mean no."
+    mc "Ne? Hayır! {w}Üzgünüm, hayır demek istiyorum ki."
 
 # game/code/d01/extended/s05b.rpy:55
 translate turkish d01s05b_3d3ef874:
 
     # mc "It's a real app, and I need to earn points to go to a Party."
-    mc "It's a real app, and I need to earn points to go to a Party."
+    mc "Bu gerçek bir uygulama ve bir Partiye gitmek için puan kazanmam gerekiyor."
 
 # game/code/d01/extended/s05b.rpy:56
 translate turkish d01s05b_ba74a0c5:
@@ -136,14 +136,14 @@ translate turkish d01s05b_eea5cd43:
 translate turkish d01s05b_d2cd4919:
 
     # mc "Today's fetish is cumshots."
-    mc "Today's fetish is cumshots."
+    mc "Bugünün fetişi boşalmak."
 
 # game/code/d01/extended/s05b.rpy:65
 translate turkish d01s05b_12ac8667:
 
     # jfx "Ha! Wow! Good luck getting random women to cum on your face or whatever."
-    jfx "Ha! Wow! Good luck getting random women to cum on your face or whatever."
-
+    jfx "Ha! Vay! Rastgele kadınların yüzünüze boşalmada iyi şanslar ya da her neyse"
+   
 # game/code/d01/extended/s05b.rpy:66
 translate turkish d01s05b_862cf183:
 
@@ -166,7 +166,7 @@ translate turkish d01s05b_4a1f28ea:
 translate turkish d01s05b_c68dbbe4:
 
     # jfx "And what?"
-    jfx "And what?"
+    jfx "Ve ne?"
 
 # game/code/d01/extended/s05b.rpy:71
 translate turkish d01s05b_55a0b9ca:
@@ -178,13 +178,13 @@ translate turkish d01s05b_55a0b9ca:
 translate turkish d01s05b_de93e898:
 
     # jfx "Really? I'd like to see that."
-    jfx "Really? I'd like to see that."
+    jfx "Gerçekten? Bunu görmek isterim."
 
 # game/code/d01/extended/s05b.rpy:75
 translate turkish d01s05b_fa578fff:
 
     # mc "Huh? Which part?"
-    mc "Huh? Which part?"
+    mc "Ha? Hangi kısımı?"
 
 # game/code/d01/extended/s05b.rpy:76
 translate turkish d01s05b_c699a58d:
@@ -196,13 +196,13 @@ translate turkish d01s05b_c699a58d:
 translate turkish d01s05b_cf3589cb:
 
     # mc "I can't do that."
-    mc "I can't do that."
+    mc "Bunu yapamam."
 
 # game/code/d01/extended/s05b.rpy:79
 translate turkish d01s05b_d80e0891:
 
     # jfx "Isn't that what you wanted?"
-    jfx "Isn't that what you wanted?"
+    jfx "İstediğin bu değil miydi?"
 
 # game/code/d01/extended/s05b.rpy:80
 translate turkish d01s05b_946cc9bf:
@@ -214,19 +214,19 @@ translate turkish d01s05b_946cc9bf:
 translate turkish d01s05b_bdeff48f:
 
     # jfx "I mean, I guess so. {w}Well, good luck with the next try. I've got to go."
-    jfx "I mean, I guess so. {w}Well, good luck with the next try. I've got to go."
+    jfx "Yani, sanırım öyle. {w}Bir sonraki denemede iyi şanslar.Gitmek zorundayım"
 
 # game/code/d01/extended/s05b.rpy:85
 translate turkish d01s05b_35b69d6d:
 
     # mc "Um, yeah. Thanks."
-    mc "Um, yeah. Thanks."
+    mc "Hımm, evet. Teşekkürler."
 
 # game/code/d01/extended/s05b.rpy:93
 translate turkish d01s05b_469e9f2f:
 
     # mct "What the hell was I thinking?! {w}I'm going back to my dorm."
-    mct "What the hell was I thinking?! {w}I'm going back to my dorm."
+    mct "Ne düşünüyordum?! {w}Yurda geri dönüyorum"
 
 # TODO: Translation updated at 2021-10-04 22:44
 
@@ -234,5 +234,5 @@ translate turkish d01s05b_469e9f2f:
 translate turkish d01s05b_daed77a9:
 
     # mc "Never mind. I just realized what I was about to say and..."
-    mc "Never mind. I just realized what I was about to say and..."
+    mc "Boş ver. Ne söylemek üzere olduğumu yeni anladım ve..."
 
